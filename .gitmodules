@@ -5,3 +5,6 @@
 [submodule "bojapi"]
 	path = bojapi
 	url = https://github.com/kenjimyzk/bojapi
+[submodule "dashboardapi"]
+	path = dashboardapi
+	url = https://github.com/kenjimyzk/dashboardapi
